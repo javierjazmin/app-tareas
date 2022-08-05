@@ -1,0 +1,22 @@
+[
+ {
+  "titulo": "Repasar JavaScript",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Armar la aplicación de tareas",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Tenis con Amigos",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "hacer la app movies",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "hacer la app movies",
+  "estado": " -pendiente"
+ }
+]
